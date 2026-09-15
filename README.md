@@ -1,5 +1,5 @@
 # Aptura Tech Solutions — Python Internship | Week 4
-### Task 1 Help Desk / Support Ticket Management System
+### Task 1 | Help Desk / Support Ticket Management System
 
 ## 📌 Overview
 
@@ -44,8 +44,10 @@ streamlit run app.py
 🎯 Internship Task
 
 Organization: Aptura Tech Solutions
+
 Internship: Python Internship
 Week: 4
+
 Task: Final Task 1 — Production-Grade Python Application
 
 👩‍💻 Author
