@@ -43,10 +43,13 @@ streamlit run app.py
 
 ## 🎯 Internship Task
 
- -Organization: Aptura Tech Solutions
--Internship: Python Internship
--Week: 4
--Task: Final Task 1 — Production-Grade Python Application
+Organization: Aptura Tech Solutions
+ 
+Internship: Python Internship
+
+Week: 4
+
+Task: Final Task 1 — Production-Grade Python Application
 
 👩‍💻 Author
 Wajeeha Tanveer
