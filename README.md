@@ -1,6 +1,5 @@
 # Aptura Tech Solutions — Python Internship | Week 4
-## Task 1
-### Help Desk / Support Ticket Management System
+### Task 1 Help Desk / Support Ticket Management System
 
 ## 📌 Overview
 
@@ -34,13 +33,13 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2. Run the Streamlit application
 
 ```bash
 streamlit run app.py
 ```
-streamlit run app.py
 
 🎯 Internship Task
 
