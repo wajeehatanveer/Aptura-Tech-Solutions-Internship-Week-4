@@ -35,21 +35,18 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-### 2. Run the Streamlit application
+### Run the Streamlit application
 
 ```bash
 streamlit run app.py
 ```
 
-🎯 Internship Task
+## 🎯 Internship Task
 
-Organization: Aptura Tech Solutions
-
-Internship: Python Internship
-
-Week: 4
-
-Task: Final Task 1 — Production-Grade Python Application
+ -Organization: Aptura Tech Solutions
+-Internship: Python Internship
+-Week: 4
+-Task: Final Task 1 — Production-Grade Python Application
 
 👩‍💻 Author
 Wajeeha Tanveer
