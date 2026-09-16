@@ -1,0 +1,160 @@
+2026-09-14 23:20:19,737 - INFO - Ticket created successfully: T001
+2026-09-14 23:20:19,741 - INFO - New ticket created from UI: T001
+2026-09-14 23:21:18,825 - INFO - Ticket updated successfully: T001
+2026-09-14 23:22:30,809 - INFO - Staff member added successfully: 5001
+2026-09-14 23:22:30,812 - INFO - Staff added from UI: 5001
+2026-09-14 23:22:57,225 - INFO - Ticket updated successfully: T001
+2026-09-14 23:46:25,670 - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-09-14 23:47:52,656 - INFO - Ticket created successfully: T002
+2026-09-14 23:47:52,658 - INFO - New ticket created from UI: T002
+2026-09-14 23:48:24,892 - INFO - Ticket updated successfully: T002
+2026-09-15 22:26:43,669 - INFO - Staff member added successfully: 1
+2026-09-15 22:26:43,671 - INFO - Staff added from UI: 1
+2026-09-15 22:37:47,148 - INFO - Ticket deleted successfully: T001
+2026-09-15 22:38:18,064 - INFO - Ticket deleted successfully: T002
+2026-09-15 23:02:45,983 - INFO - Staff member deleted successfully: 5001
+2026-09-15 23:02:45,985 - INFO - Staff deleted from UI: 5001
+2026-09-15 23:02:51,981 - INFO - Staff member deleted successfully: 1
+2026-09-15 23:02:51,991 - INFO - Staff deleted from UI: 1
+2026-09-15 23:05:14,105 - INFO - Staff member added successfully: S001
+2026-09-15 23:05:14,108 - INFO - Staff added from UI: S001
+2026-09-15 23:07:16,096 - INFO - Staff member added successfully: S003
+2026-09-15 23:07:16,098 - INFO - Staff added from UI: S003
+2026-09-15 23:07:43,735 - INFO - Staff member added successfully: S002
+2026-09-15 23:07:43,737 - INFO - Staff added from UI: S002
+2026-09-15 23:07:52,418 - INFO - Staff member deleted successfully: S003
+2026-09-15 23:07:52,421 - INFO - Staff deleted from UI: S003
+2026-09-15 23:14:33,496 - INFO - Ticket created successfully: T001
+2026-09-15 23:14:33,505 - INFO - New ticket created from UI: T001
+2026-09-15 23:18:41,406 - INFO - Staff member added successfully: S003
+2026-09-15 23:18:41,407 - INFO - Staff added from UI: S003
+2026-09-15 23:21:29,665 - INFO - Ticket created successfully: T002
+2026-09-15 23:21:29,667 - INFO - New ticket created from UI: T002
+2026-09-15 23:22:23,290 - INFO - Ticket updated successfully: T002
+2026-09-15 23:26:46,841 - INFO - Ticket created successfully: T003
+2026-09-15 23:26:46,843 - INFO - New ticket created from UI: T003
+2026-09-15 23:29:05,681 - INFO - Ticket updated successfully: T003
+2026-09-15 23:29:24,692 - INFO - Ticket updated successfully: T002
+2026-09-15 23:42:30,580 - INFO - Ticket created successfully: T004
+2026-09-15 23:42:30,582 - INFO - New ticket created from UI: T004
+2026-09-15 23:43:28,319 - INFO - Staff member added successfully: S004
+2026-09-15 23:43:28,322 - INFO - Staff added from UI: S004
+2026-09-15 23:43:54,587 - INFO - Staff member deleted successfully: S001
+2026-09-15 23:43:54,589 - INFO - Staff deleted from UI: S001
+2026-09-15 23:44:17,616 - INFO - Ticket deleted successfully: T001
+2026-09-16 00:03:39,070 - INFO - Ticket updated successfully: T004
+2026-09-16 00:06:11,012 - INFO - Ticket created successfully: T005
+2026-09-16 00:06:11,016 - INFO - New ticket created from UI: T005
+2026-09-16 00:06:11,405 - INFO - Ticket created successfully: T006
+2026-09-16 00:06:11,409 - INFO - New ticket created from UI: T006
+2026-09-16 00:07:07,123 - INFO - Staff member added successfully: S001
+2026-09-16 00:07:07,125 - INFO - Staff added from UI: S001
+2026-09-16 00:07:43,494 - INFO - Ticket deleted successfully: T004
+2026-09-16 00:08:03,483 - INFO - Staff member deleted successfully: S003
+2026-09-16 00:08:03,485 - INFO - Staff deleted from UI: S003
+2026-09-16 00:10:13,993 - INFO - Ticket deleted successfully: T006
+2026-09-16 00:20:22,768 - INFO - Staff member deleted successfully: S001
+2026-09-16 00:20:22,772 - INFO - Staff deleted from UI: S001
+2026-09-16 00:20:23,531 - INFO - Staff member deleted successfully: S004
+2026-09-16 00:20:23,534 - INFO - Staff deleted from UI: S004
+2026-09-16 00:20:25,615 - INFO - Staff member deleted successfully: S002
+2026-09-16 00:20:25,617 - INFO - Staff deleted from UI: S002
+2026-09-16 00:21:21,009 - INFO - Ticket deleted successfully: T003
+2026-09-16 00:21:31,799 - INFO - Ticket deleted successfully: T002
+2026-09-16 00:21:46,221 - INFO - Ticket deleted successfully: T005
+2026-09-16 18:24:32,115 - INFO - Staff member added successfully: S001
+2026-09-16 18:24:32,124 - INFO - Staff added from UI: S001
+2026-09-16 18:26:28,557 - INFO - Staff member added successfully: S002
+2026-09-16 18:26:28,559 - INFO - Staff added from UI: S002
+2026-09-16 18:27:46,479 - INFO - Staff member added successfully: S003
+2026-09-16 18:27:46,480 - INFO - Staff added from UI: S003
+2026-09-16 18:46:27,604 - INFO - Ticket created successfully: T001
+2026-09-16 18:46:27,610 - INFO - New ticket created from UI: T001
+2026-09-16 18:49:01,955 - INFO - Ticket created successfully: T002
+2026-09-16 18:49:01,966 - INFO - New ticket created from UI: T002
+2026-09-16 18:55:47,451 - INFO - Ticket created successfully: T003
+2026-09-16 18:55:47,456 - INFO - New ticket created from UI: T003
+2026-09-16 18:58:41,025 - INFO - Ticket updated successfully: T001
+2026-09-16 18:59:15,860 - INFO - Ticket updated successfully: T002
+2026-09-16 19:00:07,067 - INFO - Staff member added successfully: 5001
+2026-09-16 19:00:07,075 - INFO - Staff added from UI: 5001
+2026-09-16 19:01:47,254 - ERROR - Staff creation failed: UNIQUE constraint failed: staff.staff_id
+Traceback (most recent call last):
+  File "C:\Users\hp\OneDrive\Documents\Aptura Tech Internship week 4\Task 1 Help Desk Support Ticket Management System\services\staff_service.py", line 156, in add_staff
+    cursor.execute("""
+sqlite3.IntegrityError: UNIQUE constraint failed: staff.staff_id
+2026-09-16 19:01:47,255 - ERROR - Staff creation failed: Unable to add staff member: UNIQUE constraint failed: staff.staff_id
+2026-09-16 19:02:21,911 - INFO - Staff member deleted successfully: S003
+2026-09-16 19:02:21,916 - INFO - Staff deleted from UI: S003
+2026-09-16 19:02:27,942 - INFO - Staff member added successfully: S003
+2026-09-16 19:02:27,946 - INFO - Staff added from UI: S003
+2026-09-16 19:02:41,140 - INFO - Staff member deleted successfully: S001
+2026-09-16 19:02:41,143 - INFO - Staff deleted from UI: S001
+2026-09-16 19:03:22,599 - INFO - Staff member deleted successfully: 5001
+2026-09-16 19:03:22,605 - INFO - Staff deleted from UI: 5001
+2026-09-16 19:04:49,579 - INFO - Staff member added successfully: S001
+2026-09-16 19:04:49,580 - INFO - Staff added from UI: S001
+2026-09-16 19:07:30,639 - INFO - Staff member deleted successfully: S001
+2026-09-16 19:07:30,644 - INFO - Staff deleted from UI: S001
+2026-09-16 19:07:42,482 - INFO - Staff member deleted successfully: S002
+2026-09-16 19:07:42,485 - INFO - Staff deleted from UI: S002
+2026-09-16 19:08:08,887 - INFO - Staff member added successfully: S001
+2026-09-16 19:08:08,889 - INFO - Staff added from UI: S001
+2026-09-16 19:09:21,847 - INFO - Staff member added successfully: S002
+2026-09-16 19:09:21,848 - INFO - Staff added from UI: S002
+2026-09-16 19:17:37,385 - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-09-16 19:19:26,748 - INFO - Ticket created successfully: T004
+2026-09-16 19:19:26,754 - INFO - New ticket created from UI: T004
+2026-09-16 22:12:37,954 - INFO - Ticket deleted successfully: T004
+2026-09-16 22:13:57,383 - INFO - Ticket created successfully: T004
+2026-09-16 22:13:57,388 - INFO - New ticket created from UI: T004
+2026-09-16 22:15:17,364 - INFO - Staff member added successfully: S004
+2026-09-16 22:15:17,365 - INFO - Staff added from UI: S004
+2026-09-16 22:15:41,020 - INFO - Ticket deleted successfully: T001
+2026-09-16 22:16:02,740 - INFO - Staff member deleted successfully: S004
+2026-09-16 22:16:02,742 - INFO - Staff deleted from UI: S004
+2026-09-16 22:22:13,011 - INFO - Ticket created successfully: T005
+2026-09-16 22:22:13,016 - INFO - New ticket created from UI: T005
+2026-09-16 22:24:26,022 - INFO - Ticket deleted successfully: T002
+2026-09-16 22:24:35,702 - INFO - Ticket deleted successfully: T003
+2026-09-16 22:24:47,623 - INFO - Ticket deleted successfully: T005
+2026-09-16 22:25:03,633 - INFO - Ticket deleted successfully: T004
+2026-09-16 22:29:12,611 - INFO - Staff member deleted successfully: S003
+2026-09-16 22:29:12,613 - INFO - Staff deleted from UI: S003
+2026-09-16 22:29:15,271 - INFO - Staff member deleted successfully: S001
+2026-09-16 22:29:15,274 - INFO - Staff deleted from UI: S001
+2026-09-16 22:30:00,905 - INFO - Staff member added successfully: S003
+2026-09-16 22:30:00,906 - INFO - Staff added from UI: S003
+2026-09-16 22:30:55,089 - INFO - Staff member added successfully: S001
+2026-09-16 22:30:55,091 - INFO - Staff added from UI: S001
+2026-09-16 22:31:49,945 - INFO - Ticket created successfully: T001
+2026-09-16 22:31:49,946 - INFO - New ticket created from UI: T001
+2026-09-16 22:36:40,583 - INFO - Ticket created successfully: T002
+2026-09-16 22:36:40,588 - INFO - New ticket created from UI: T002
+2026-09-16 22:38:47,872 - INFO - Ticket created successfully: T003
+2026-09-16 22:38:47,874 - INFO - New ticket created from UI: T003
+2026-09-16 22:40:07,421 - INFO - Ticket updated successfully: T001
+2026-09-16 22:40:24,360 - INFO - Ticket updated successfully: T003
+2026-09-16 22:42:28,183 - INFO - Ticket created successfully: T004
+2026-09-16 22:42:28,189 - INFO - New ticket created from UI: T004
+2026-09-16 22:43:17,042 - INFO - Staff member added successfully: S004
+2026-09-16 22:43:17,044 - INFO - Staff added from UI: S004
+2026-09-16 22:48:38,777 - INFO - Staff member deleted successfully: S004
+2026-09-16 22:48:38,780 - INFO - Staff deleted from UI: S004
+2026-09-16 22:50:22,987 - INFO - Staff member deleted successfully: S001
+2026-09-16 22:50:22,989 - INFO - Staff deleted from UI: S001
+2026-09-16 23:19:01,332 - INFO - Ticket deleted successfully: T004
