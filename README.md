@@ -1,5 +1,5 @@
 # Aptura Tech Solutions — Python Internship | Week 4
-### Task 1 — Task 1 — Production-Grade Python Application
+## Task 1 — Production-Grade Python Application
 
 # Help Desk / Support Ticket Management System
 
