@@ -96,9 +96,9 @@ Internship: Python Internship
 
 Week: 4
 
-Tasks: Task 1 — Production-Grade Python Application
+Task 1 — Production-Grade Python Application
 
-       Task 2 — Automation & Quality Engineering
+Task 2 — Automation & Quality Engineering
 
 👩‍💻 Author
 Wajeeha Tanveer
