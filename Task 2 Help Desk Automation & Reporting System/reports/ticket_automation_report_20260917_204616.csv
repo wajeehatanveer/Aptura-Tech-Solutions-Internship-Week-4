@@ -1,0 +1,5 @@
+Ticket ID,Title,Category,Priority,Status,Assigned To,Created At,Action
+T004,Server connection issue,Other,Critical,Open,,2026-09-17 19:56:57,Unassigned - Requires Assignment
+T003,Unable to access company email,Account,High,Resolved,S001,2026-09-16 22:38:47,No Action Required
+T002,Printer is not working,Hardware,Medium,Open,S002,2026-09-16 22:36:40,No Immediate Action Required
+T001,Request for software installation,Software,Low,In Progress,S003,2026-09-16 22:31:49,In Progress - Requires Monitoring
