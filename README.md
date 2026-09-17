@@ -43,6 +43,51 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+# Final Task 2 — Automation & Quality Engineering
+## Help Desk Automation & Reporting System
+
+An automation extension of the Help Desk Support Ticket Management System designed to process tickets, identify issues requiring attention, generate reports, and validate system performance.
+
+## Features
+
+* Automated ticket processing
+* Priority & unassigned ticket detection
+* Automated CSV report generation
+* Scheduled automation support
+* Logging & error handling
+* Streamlit dashboard
+* Unit & integration testing
+* Performance testing
+
+## Workflow
+
+```text
+SQLite → Ticket Processor → Analysis → Report Generator → CSV Report
+```
+
+## Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## Testing
+
+```bash
+pytest tests -v
+```
+
+## Technologies
+
+**Python • Streamlit • SQLite • Pytest • CSV • Logging**
+
+## Documentation
+
+* `RUNBOOK.md` — Deployment & operation guide
+* `FINAL_REPORT.md` — Final project report
+
+
 ## 🎯 Internship Task
 
 Organization: Aptura Tech Solutions
@@ -51,7 +96,8 @@ Internship: Python Internship
 
 Week: 4
 
-Task: Final Task 1 — Production-Grade Python Application
+Tasks: Task 1 — Production-Grade Python Application
+       Task 2 — Automation & Quality Engineering
 
 👩‍💻 Author
 Wajeeha Tanveer
